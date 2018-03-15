@@ -1,3 +1,0 @@
-/root/miner/build/CMakeFiles/edit_cache.dir
-/root/miner/build/CMakeFiles/rebuild_cache.dir
-/root/miner/build/CMakeFiles/xmr-stak-cpu.dir
